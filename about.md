@@ -28,7 +28,7 @@ show_tile: false
 	<section id="one" class="spotlights">
 		<section>
 			<a class="fade-in-image">
-				<img src="https://t-guan.github.io/Portfolio/assets/images/pic.jpg"/>
+				<img src="https://t-guan.github.io/assets/images/pic.jpg"/>
 			</a>
 			<div class="content">
 					<header class="major">
