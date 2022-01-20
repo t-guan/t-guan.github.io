@@ -1,0 +1,47 @@
+# site settings
+title: Thomas Guan
+subtitle: 
+email: f/mqknapbz
+description: A Mechatronics Engineering student expected to graduate in 2022.<br /> Experiences in mechanical and product design, interested in controls and sustainable technologies.
+baseurl: "/Portfolio" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 
+city: 
+state: 
+zip_code: 
+country:
+phone: 
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 0
+tiles-counter: 10
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/t-guan
+  Google-Plus:
+  Instagram:
+  LinkedIn: https://www.linkedin.com/in/thomas-s-guan
+  Twitter: 
+  Facebook:
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+plugins:
+ - jekyll-pdf-embed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
+- PostArchive
