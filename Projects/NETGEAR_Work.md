@@ -17,7 +17,7 @@ tile_IND: true
 					<h3>Mobile Hotspots</h3>
 				</header>
 				<ul>
-					<li>Updated and created variations of 3D Injection Moulded Design.</li>
+					<li>Updated and created variations of 3D Injection Moulded Design, with a focus on design for manufacturing.</li>
 					<li>Performed tolerance analysis for components including the power button.</li>
 					<li>Developed RF-Door covering concepts, performed tolerance analysis to confirm concepts with principal designer.</li>
 					<li>Created 3D CAD housings for the devices, as well as ensuring integration with FPC, displays, and other electrical components.</li>
