@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Smart Beehive
-description: A set of technological attachmenets to beehives which can assist beekeepers in tending to their colonies. (Video Demo)
+description: (ONGOING) An instrumented beehive which can assist beekeepers in tending to their colonies. (Video Demo)
 image: assets/images/BHive.jpg
 youtubeId: sVTf1BaiNfE
 tile_MC: true
@@ -34,5 +34,8 @@ From this part of the project, a team and I are undertaking the development of s
 aim to further improve the usability of the hive iself. 
 
 A report was written for this first stage of the project, attached below.
+Currently now working with a team of three engineers and three business students to push this idea further as part of the UBC New Venture Design course. On the engineering side, we are working on a robust feeding mechanism,
+gas-sensor array for varroa mite and hive health detection, and a climate control system. We hope to improve the existing instrumentation to make it into a more robust and refined solution.
+
 <div>
 <embed src="https://t-guan.github.io/Portfolio/Projects/pdfs/SmartBeehivePR.pdf" type="application/pdf" style="min-height:100vh;width:100%"/>

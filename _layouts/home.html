@@ -33,6 +33,19 @@
                     <!--<li><a href="#one" class="button next scrolly">Projects</a></li>-->
                 </ul>
            </div>
+            <div class="content">
+                <ul class="icons">
+                    {% for key_value in site.socials %}
+                    {% if key_value[1] %}
+                    <li>
+                        <a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+                            <span class="label">{{ key_value[0] }}</span>
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% endfor %}
+                </ul>
+            </div>
         </div>
     </section>
 
@@ -86,11 +99,11 @@
             </section>
         </center>
         <section id="two">
-                <div class="inner">
-                    <ul class="actions">
-                        <li><a href="projectarchive.html" class="button next">Complete Project Archive</a></li>
-                    </ul>
-                </div>
+            <div class="inner">
+                <ul class="actions">
+                    <li><a href="projectarchive.html" class="button next">Complete Project Archive</a></li>
+                </ul>
+            </div>
         </section>
         <!-- Two -->
         <!-- Three -->
