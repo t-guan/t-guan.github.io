@@ -11,6 +11,33 @@
 <body>
 
 	{% include header.html %}
+
+	<div id="content" class="alt">
+		</br>
+		</br>
+		<div class="row">
+			<div class="1u 12u$(medium)">
+				</br>
+			</div>
+			<div class="3u 12u$(medium)">
+				<ul class="actions">
+					<li><a href="/projectarchive.html" class="button small">To Project Archive</a></li>
+				</ul>
+			</div>
+			<div class="4u 12u$(medium)">
+				<center>
+					<header class="major">
+						<h1>{{ page.title }}</h1>
+					</header>
+				</center>
+			</div>
+		</div>
+		<div id="main" class="alt">
+			<div class="inner">
+					{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt=""></span>{% endif %}
+			</div>
+		</div>
+	</div>
 	<style>
 		body {
 			animation: fadeInAnimation ease 3s;
@@ -28,33 +55,13 @@
 			}
 		}
 	</style>
-
 	<!-- Main -->
 	<div id="main" class="alt">
 		<!-- One -->
-		<section id="one">
-			<div class="inner">
-				<div class=" row">
-					<div class="3u 12u$(medium)">
-						<ul class="actions">
-							<li><a href="/projectarchive.html" class="button small">To Project Archive</a></li>
-						</ul>
-					</div>
-					<div class="6u 12u$(medium)">
-						<center>
-							<header class="major">
-								<h1>{{ page.title }}</h1>
-							</header>
-						</center>
-					</div>
-				</div>
-				{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt=""></span>{% endif %}
-				{{ content }}
-			</div>
-		</section>
-
+		<div class="inner">
+			{{ content }}
+		</div>
 	</div>
-
 </body>
 
 </html>
