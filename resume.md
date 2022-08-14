@@ -125,6 +125,10 @@ show_tile: false
 	<!--<hr style="border: solid 1px;" />-->
 	<div class="row">
 		<dl>
+			<h3>Univeristy of California, Berkeley &emsp;<font size="4">(August 2022-May 2023)</font></h3>
+			<dt><i>Masters of Engineering, Mechanical Engineering, Specializing in Product Design</i></dt>
+		</dl>
+		<dl>
 			<h3>Univeristy of British Columbia &emsp;<font size="4">(September 2017-May 2022)</font></h3>
 			<dt><i>Bachelors of Mechanical Engineering, Specializing in Mechatronics Engineering</i></dt>
 			<dd>

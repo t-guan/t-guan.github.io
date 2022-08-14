@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Smart Beehive
-description: (ONGOING) An instrumented beehive which can assist beekeepers in tending to their colonies. (Video Demo)
+description: An instrumented beehive which can assist beekeepers in tending to their colonies. (Video Demo)
 image: assets/images/BHive.jpg
 youtubeId: sVTf1BaiNfE
 tile_MC: true
@@ -9,7 +9,7 @@ tile_MC: true
 
 <center>{% include youtubePlayer.html id=page.youtubeId %}</center>
 
-The motivation behind this ongoing project is to create a beehive which can help beekeepers and their colonies thrive. Due to the lack of technology which has penetrated this space, this first part of the
+The motivation behind this project is to create a beehive which can help beekeepers and their colonies thrive. Due to the lack of technology which has penetrated this space, this first part of the
 project aims to create some modules which can help beekeepers by keeping track of various metrics of their hive. A motorized flag was also made as an easy assessment based on whether
 or not the hive was in a harvet-ready state. Moreover, the software aims to assist beekeepers by providing recommended actions based on the current status of the hive, which can especially be helpful for novice beekeepers. 
 
@@ -33,9 +33,7 @@ to the user. It would also show suggested actions based on the data, track and s
 From this part of the project, a team and I are undertaking the development of some other components, which focus on climate control, varroa mite detection, and feeding. These actionable items will 
 aim to further improve the usability of the hive iself. 
 
-A report was written for this first stage of the project, attached below.
-Currently now working with a team of three engineers and three business students to push this idea further as part of the UBC New Venture Design course. On the engineering side, we are working on a robust feeding mechanism,
-gas-sensor array for varroa mite and hive health detection, and a climate control system. We hope to improve the existing instrumentation to make it into a more robust and refined solution.
+A report was written for this first stage of the project, attached below. This project was eventually further developed into Nectarfy, the Smart Beehive.
 
 <div>
 <embed src="https://t-guan.github.io/Portfolio/Projects/pdfs/SmartBeehivePR.pdf" type="application/pdf" style="min-height:100vh;width:100%"/>
