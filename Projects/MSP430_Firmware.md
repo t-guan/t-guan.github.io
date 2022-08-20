@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Adaptive Game Controller with MSP430 Microcontroller.
+title: Adaptive Game Controller with MSP430 Microcontroller
 description: Creating a proof of concept adaptive game controller. (Video Demo)
 image:
 youtubeId: 7juvjBKXK2w
