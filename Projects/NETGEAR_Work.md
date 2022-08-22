@@ -21,8 +21,8 @@ tile_IND: true
 					<li>Performed tolerance analysis for components including the power button.</li>
 					<li>Developed RF-Door covering concepts, performed tolerance analysis to confirm concepts with principal designer.</li>
 					<li>Created 3D CAD housings for the devices, as well as ensuring integration with FPC, displays, and other electrical components.</li>
-					<li>Performed durability tests on new devices and teardowns to identify potential manufacturing and engineering defects on units.</li>
-					<li>Created 2D drawings of individual parts and complete assemblies, including assembly instruction drawings</li>
+					<li>Performed durability tests and teardowns on new devices to identify potential manufacturing and engineering defects on units.</li>
+					<li>Created 2D drawings of individual parts and complete assemblies, including assembly instruction drawings.</li>
 				</ul>
 			</div>
 		</div>
@@ -57,8 +57,8 @@ tile_IND: true
 				</header>
 				<ul>
 					<li>Designed and created a lightpipe for the blue lighting features of an Orbi device.</li>
-					<li>Performed moldflow analysis to identify best locations and for injection molding of device parts.</li>
-					<li>Created engineering drawings for the device</li>
+					<li>Performed moldflow analysis to identify best locations for injection points on various device parts.</li>
+					<li>Created manufacturing engineering drawings.</li>
 				</ul>
 			</div>
 		</div>
