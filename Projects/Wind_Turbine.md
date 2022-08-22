@@ -15,12 +15,8 @@ As part of this project, I lead the Mechanical team to develop one of our first 
 Here, we pivoted our focus to build as much of the turbine as we could using bamboo. We started using 3D CAD to develop and design various different kinds of turbines. We analyzed various styles of wind turbine, which includes stationary turbines, and horizontal and vertical axis wind turbines. I worked closely along my team while also ensuring 
 robust communication between ourselves and our stakeholders. I delegated tasks, and held design reviews and check-ins with my team.
 
-Together, we worked through the COVID-19 pandemic, switching gears to work as much as we could in simulations with FEA software, CAD, and flow simulations. Moreover, I and a group of others created a gearbox to meet the needs of the power generation of the project based on wind data which was collected and recorded by our partner organization. The underlying
-mathematics of the gear drive design can be found in the PDF at the bottom of the page.
+Together, we worked through the COVID-19 pandemic, switching gears to work as much as we could in simulations with FEA software, CAD, and flow simulations. Moreover, I and a group of others designed and specified characteristics of a gearbox to meet the needs of the power generation of the project based on wind data which was collected and recorded by our partner organization.
 
 <center><img src="ProjectImages/turbgear.jpg" alt="Gear Train Design for Wind Turbine"></center>
 
-
-Unfortunately, due to the pandemic circumstances, building on the turbine was halted, and due to the new variant, that progress continues to be stalled. However, we are working closely with University Labs and regulations to ensure progress is still being made, despite these challenges.
-
-<embed src="https://t-guan.github.io/Portfolio/Projects/pdfs/TurbDrive.pdf" type="application/pdf" style="min-height:100vh;width:100%"/>
+<!--<embed src="https://t-guan.github.io/Portfolio/Projects/pdfs/TurbDrive.pdf" type="application/pdf" style="min-height:100vh;width:100%"/>
