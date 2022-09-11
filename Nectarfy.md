@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nectarfy, The Smart Beehive Company
-description: My epxerience working on Nectarfy, to 
+description: Nectarfy
 image:
 nav-menu: true
 show_tile: false
@@ -32,9 +32,12 @@ youtubeId: zqeAR44L1gQ
 			<!--<h3>NETGEAR Canada &emsp;<font size="4">(January 2021-August 2021)</font></h3>
 			<dt><i>Mechanical Design Intern</i></dt> -->
 			<p>Nectarfy was born out of the New Venture Design course at UBC, where three business students and three engineers sought to create a venture. 
-			My team eventually created Nectarfy, an agritech product with the aim of helping beekeepers save the bees.</p>
+			My team eventually created Nectarfy, an agritech product with the aim of helping beekeepers save the bees. I was inspired to pursue this idea when speaking with local beekeepers at a famers market. After learning
+			about the issues which have plagued bees for the past years, I decided to see how engineering could potentially solve their issues.</p>
 			<h3>The Nectarfy Difference &emsp;</h3>
 			<center>{% include youtubePlayer.html id=page.youtubeId %}</center>
+			<p>Fundamentally, the issues Nectarfy aimed to solve was both to empower urban beekeepers</p>
+			<p>The engineering team has written a complete report which can be found here. For my part on the project, I build the entire Varroa Mite Detection System while building parts of the physical beehive alongside my engineering team.
 		</dl>
 	</div>
 	<!--<div class="row">
