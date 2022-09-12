@@ -50,24 +50,4 @@ youtubeId: zqeAR44L1gQ
 			<p>If you are further interested in how exactly we built and designed the beehive, you can download the complete technical report detailing MVP hardware and software development you can [get the PDF](https://t-guan.github.io/assets/pdfs/Nectarfy.pdf) here.<p>
 		</dl>
 	</div>
-	<!--<div class="row">
-		<dl>
-			<h3>LB Foster Rail Technologies &emsp;<font size="4">(April 2019-December 2019)</font></h3>
-			<dt><i>Mechanical Engineering Intern</i></dt>
-			<dd>
-				<!--<p>Designed and tested various handheld and non-handheld plastic consumer connectivity devices, focused on <b>Design for Manufacturing</b> and <b>Design for Assembly</b> of various mechanical, optical, and electrical components. </p>
-				<ul>
-				<li>Designed, modeled, and improved hardware designs for applicator and bracket mounting hardware. These pieces of hardware were typically fabricated out of steel.</li>
-				<li>Translated client requests into early prototypes, refined them, and produced ready-to-manufacture designs.</li>
-				<li>Drew and maintained standard engineering drawings for both parts and large-scale assemblies.</li>
-				<li>Performed tolerance analysis on designed parts to ensure fit on client bogeys.</li>
-				<li>Collaborated with Machinists to ensure feasibility and robustness of designs.</li>
-				<li>Performed Finite Element Analysis on designed parts to analyze and prevent operating failures, specifically stress, strain, and vibrations.</li>
-				<li>Performed time-to-failure tests on hardware and built simulations to validate results.</li>
-				<li>Assisted in designing and programming of a lubricant application machine using a Unitronics PLC Controller</li>
-				<li>Performed data analysis on a PLC-controller air compressor to determine response rate and tune</li>
-				</ul>
-			</dd>
-		</dl>
-	</div> -->
 </html>
