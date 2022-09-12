@@ -47,7 +47,7 @@ youtubeId: zqeAR44L1gQ
 	</div>
 	<div class="row">
 		<dl>
-			<p>If you are further interested in how exactly we built and designed the beehive, you can download the complete technical report detailing MVP hardware and software development you can [get the PDF](https://t-guan.github.io/assets/pdfs/Nectarfy.pdf) here.<p>
+			If you are further interested in how exactly we built and designed the beehive, you can download the complete technical report detailing MVP hardware and software development you can [get the PDF](https://t-guan.github.io/assets/pdfs/Nectarfy.pdf) here.
 		</dl>
 	</div>
 </html>
