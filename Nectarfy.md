@@ -36,8 +36,18 @@ youtubeId: zqeAR44L1gQ
 			about the issues which have plagued bees for the past years, I decided to see how engineering could potentially solve their issues.</p>
 			<h3>The Nectarfy Difference &emsp;</h3>
 			<center>{% include youtubePlayer.html id=page.youtubeId %}</center>
-			<p>Fundamentally, the issues Nectarfy aimed to solve was both to empower urban beekeepers</p>
-			<p>The engineering team has written a complete report which can be found here. For my part on the project, I build the entire Varroa Mite Detection System while building parts of the physical beehive alongside my engineering team.
+			<p>Fundamentally, the issues Nectarfy aimed to solve was both to empower urban beekeepers and assist commercial beekepers with two key points, winter survival and varroa mite detection.</p>
+			<p>From our research, bee survival rates through the winter are getting worse and worse as climate change affects the duration and severity of the winters. Furthemore, the varroa mite, a parasite whose life cycle rests on killing bees, have been an ever growing issue for beekeepers.</p>
+			<p>Nectarfy was a hive with three major features, an AI varroa mite detection system, a semi-autonomous food mixer and dispenser, and a heating system. Furthermore, the hive was to have an app which allowed the user to monitor and control the beehive remotely.</p>
+			<img src="https://t-guan.github.io/assets/images/NectarfyTessa.jpg"/>
+			<p>The image shows a drawing overview of the beehive, (Credit to Tessa Zolezzi 2022) which was implemented into the physical MVP.</p>
+			<img src="https://t-guan.github.io/assets/images/NectarfyMVP1.jpg"/>
+			<img src="https://t-guan.github.io/assets/images/NectarfyMVP2.jpg"/>
+		</dl>
+	</div>
+	<div class="row">
+		<dl>
+			<p>If you are further interested in how exactly we built and designed the beehive, you can download the complete technical report detailing MVP hardware and software development [here.](https://t-guan.github.io/assets/pdfs/Nectarfy.pdf)<p>
 		</dl>
 	</div>
 	<!--<div class="row">
