@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+    {% include head.html %}
+<style>
+    body {
+        animation: fadeInAnimation ease 3s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+    }
+
+    @keyframes fadeInAnimation {
+        0% {
+            opacity: 0;
+        }
+
+        100% {
+            opacity: 1;
+        }
+    }
+</style>
+<body>
+
+    {% include header.html %}
+
+    <div class="inner">
+        <header class="content">
+            <center>
+                <h1>{{ page.titlepage }}</h1>
+            </center>
+        </header>
+    </div>
+    {{ content }}
+
+
+</body>
+
+</html>
