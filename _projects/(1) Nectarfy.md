@@ -15,6 +15,7 @@ Nectarfy has gone through many iterations since its inception. At first, we aime
 - Monitor internal vibration
 - Notify user of full beehive
 
-There features were rudimentary at best, and was done between myself and a classmate as an exercise in firmware development.
+There features were rudimentary at best, and was done between myself and a classmate as an exercise in firmware development. We used an TI MSP430 and wrote firmware to control a load cell, a servo, and other various sensors. I developed UI and most of the mechanical mechanisms using a combination of woodworking and 3D printing.
+
 
  At first, it was a simple beehive with a weight
