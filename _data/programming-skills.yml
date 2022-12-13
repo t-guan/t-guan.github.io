@@ -1,0 +1,11 @@
+- name: Python
+  percentage: 90
+  color: Secondary
+
+- name: C/C#
+  percentage: 80
+  color:
+
+- name: MATLAB/SIMULINK
+  percentage: 75
+  color: danger

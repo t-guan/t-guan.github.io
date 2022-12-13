@@ -1,8 +1,5 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'jekyll', '~> 4.2'
-
-group :jekyll_plugins do
-  gem 'jekyll-timeago', '~> 0.14.0'
-  gem "jekyll-pdf-embed"
-end
+gem "github-pages", group: :jekyll_plugins
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem "webrick"
