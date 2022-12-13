@@ -1,47 +1,100 @@
-# site settings
-title: Thomas Guan
-subtitle: 
-email: f/mqknapbz
-description: A UC Berkeley Masters of Engineering student.<br /><br /> Looking to apply a fusion of my skills in electromechanical, software, and controls design to products with great sustainablily and social impact.
-baseurl: # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 
-city: 
-state: 
-zip_code: 
-country:
-phone: 
+### Site Settings ###
+title               : Thomas Guan
+description         : >-
+                      Hello there! :coffee: I'm a Mechatronics Engineer who loves to build :gear:
+                      
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : t-guan/t-guan.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : 
+open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
-# homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 0
-tiles-counter: 10
 
-# social settings (key must match name of font awesome icon)
-# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
-# Icons are not shown if value is empty
-# You need to restart jekyll for changes to have an effect
-socials:
-  GitHub: https://github.com/t-guan
-  Google-Plus:
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/thomas-s-guan
-  Twitter: 
-  Facebook:
-  Slack:
-
-# build settings
-markdown: kramdown
-
-sass:
-  style: compressed
+### Plugins ###
 plugins:
- - jekyll-pdf-embed
+  - jemoji
 
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+
+### Author Info ###
+author:
+  name              : Thomas Guan
+  image             : https://i.imgur.com/uyDNQnn.jpg#
+# behance           : your_username
+# dribbble          : your_username
+  email             : thomas.s.guan@gmail.com
+# facebook          : your_username
+  github            : t-guan
+# gitlab            : your_username
+# instagram         : your_username
+# kaggle            : your_username
+  linkedin          : thomas-s-guan
+# medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+# twitter           : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+# keybase           : your_username
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+### Disqus ###
+disqus:
+  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: false                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+
+### Buy me a coffee ###
+# See https://www.buymeacoffee.com/
+buymeacoffee:
+  enabled: false
+  username: your_username
+  color: "#007bff"
+  message: "Thank you for visiting."                    # Message to be displayed aside from the button for a few seconds.
+  description: "Support me on Buy me a coffee!"
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+
+### Exclude from processing ###
 exclude:
-- "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
-- README.md 
-- PostArchive
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
