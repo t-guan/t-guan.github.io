@@ -16,4 +16,4 @@ We used a camera to take over 200 photos of good and defective parts, labeled an
 
 {% include elements/figure.html image="/assets/images/aiim/astruc.jpg" caption="Algorithm Structure" %}
 
-With this model, we were able to set up a camera to accurately detect defective parts and notify the machinist.
+With this model, we were able to set up a camera to accurately detect defective parts and notify the machinist before too much waste is created.

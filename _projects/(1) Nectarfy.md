@@ -53,5 +53,5 @@ The system was able to easily distinguish room air and a beehive, and various ot
 ## Nectarfy, The Pivot
 After our MVP, two of us from the original team of six moved into a Startup Incubator to try and bring Nectarfy to life. We conducted further interviews and pivoted from a complete beehive to an attachment, which would allow our device to retrofit on existing beehives. We also scaled back some features from the second iteration such that it could fit in this new streamlined form factor.
 
-{% include elements/figure.html image="/assets/images/nectarfy/nvmp2.jpg" caption="Nectarfy V2" %}
+{% include elements/figure.html image="/assets/images/nectarfy/nmvp2.jpg" caption="Nectarfy V2" %}
 
