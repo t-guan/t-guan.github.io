@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Thomas Guan
 description         : >-
-                      Hello there! :coffee: I'm a Mechatronics Engineer who loves to build products:gear:
+                      Hello there! :coffee: I'm a Mechatronics Engineer who loves to build :gear:
                       
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : t-guan/t-guan.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
