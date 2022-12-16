@@ -1,8 +1,8 @@
 ---
-name: AI Defective Part Detector
-tools: [AI, ML, CV, Injection Molding]
-image: /assets/images/aiim/AIIM.jpg
-description: Show some support by following me!
+name: UBC Sustaingineering, Recycled Wind Turbine
+tools: [CAD, FEA, Mechanical, Sustainbility]
+image: /assets/images/windturb/turb.jpg
+description: 
 external_url:
 ---
 # UBC Sustaingineering
