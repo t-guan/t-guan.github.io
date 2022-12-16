@@ -2,7 +2,7 @@
 name: AI Defective Part Detector
 tools: [AI, ML, CV, Injection Molding]
 image: /assets/images/aiim/AIIM.jpg
-description: Show some support by following me!
+description: Using ML to detect defective injection molded parts
 external_url:
 ---
 # AI Defective Part Detector
