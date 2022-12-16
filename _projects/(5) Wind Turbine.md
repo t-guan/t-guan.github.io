@@ -7,7 +7,7 @@ external_url:
 ---
 # UBC Sustaingineering
 
-[UBC Sustaingineering] (https://www.sustaingineering.com/) is a Student Design Team at UBC, a team focused on building sustainable technologies. I was a member of this team for a year and transitioned into Co-Mechanical Team Lead into my senior year.
+[UBC Sustaingineering](https://www.sustaingineering.com/) is a Student Design Team at UBC, a team focused on building sustainable technologies. I was a member of this team for a year and transitioned into Co-Mechanical Team Lead into my senior year.
 
 # The Problem
 Our partner organization in Nicaragua wanted to build a wind turbine out of local recycled materials, to show that energy is accessible anywhere, and to empower their community to become less dependent on a dangerous and unreliable electric grid. Our partner wanted a turbine which could be built on top of a school and power most of the major electronics within, which included lights and some small appliances.
@@ -26,4 +26,4 @@ Meanwhile, I worked with a group of other students to develop a gear train for t
 
 Before I graduated UBC, the turbine team was able to build a rudimentary prototype of the turbine and attached it to a small motor to generate a few Watts of energy. Since my tenure, the turbine project has further developed and is aimed for a completion sometime next year.
 
-{% include elements/figure.html image="/assets/images/windturb/turbgif.gif" caption="Gear Box Model based on McMaster Carr Parts" %}
+{% include elements/figure.html image="/assets/images/windturb/turbgif.gif" caption="First Test of Prototype" %}
