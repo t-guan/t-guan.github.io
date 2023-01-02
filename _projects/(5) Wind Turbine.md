@@ -1,6 +1,6 @@
 ---
 name: UBC Sustaingineering, Recycled Wind Turbine
-tools: [CAD, FEA, Mechanical, Sustainbility]
+tools: [Hardware, Sustainbility]
 image: /assets/images/windturb/turb.jpg
 description: 
 external_url:
