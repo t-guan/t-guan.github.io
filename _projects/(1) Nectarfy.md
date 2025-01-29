@@ -55,3 +55,10 @@ After our MVP, two of us from the original team of six moved into a Startup Incu
 
 {% include elements/figure.html image="/assets/images/nectarfy/nmvp2.jpg" caption="Nectarfy V2" %}
 
+## Hexahive, The Rebrand - Big Ideas
+While pursuing my master's degree at UC Berkeley, I was still passionate about Nectarfy and hopeful for the impact it could have on the beekeeping industry. In California, which is one of the largest markets for beekeeping, I found it to be a great opportunity to learn more about the industry and leverage the tech-focused environment of the Bay. I kept to my roots, going to the local Berkeley farmers market, and learned quickly that while there were problems unique to California beekeepers, a common thread: The Varroa Mite, still remained.
+
+It was here where I sought outlike-minded engineers, and entered into various pitch competitions and startup accelerators. One of the key moments during my studies at Berkeley was being a Grand Finalist for the 2023 Big Ideas competition, where we won some money which we put towards building our alpha prototype.
+
+{% include elements/button.html link="https://bigideascontest.org/projects/hexahive/" text="Contest" style="outline-dark" size="lg" %}
+{% include elements/button.html link="/assets/pdfs/HexaHive_2023AwardsPoster.pdf" text="Hexahive Grand Finals Poster" style="outline-dark" size="lg" %}
