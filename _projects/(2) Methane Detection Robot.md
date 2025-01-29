@@ -1,11 +1,11 @@
 ---
-name: Hazardous Enviornment Robot, Squishy Robotics
+name: Hazardous Environment Robot, Squishy Robotics
 tools: [SOLIDWORKS, Python, Hardware]
 image: /assets/images/squishy/squishy.jpg
-description: Developing a robot for methane detection in hazardous enviornments
+description: Developing a robot for methane detection in hazardous environments
 ---
 
-# Squishy Robotics, Hazardous Enviorment Robot
+# Squishy Robotics, Hazardous Environment Robot
 
 ## The Problem
 Squishy Robotic's platform allows their robots to carry payloads and be dropped from the sky into hazardous locations from a thousand feet in the sky. Our team was tasks to build a new payload to help detect methane gas to be used in detecting leaks for the oil and gas industry.
@@ -23,5 +23,5 @@ Primarily, the work done on this sensor was to build and tune an electric circui
 ### The Pan-Tilt Mechanism
 The OGI Sensor would be put onto a pan-tilt mechanism to allow the OGI to scan over a large area for methane detection. I created a 3D model of the pan-tilt mechanism and built a test housing for the whole mechanism. I wrote the control schema for the pan-tilt, utilizing interrupts and PID control to allow for pseudo-simultaneous control of the device.
 
-<image src="/assets/images/squishy/Spinner.gif" alt="Spinners" width="450" /> 
-{% include elements/figure.html image="/assets/images/squishy/Spinner.gif" caption="Look at it go!" %}
+![Spinner]{/assets/images/squishy/spinner.gif}
+{% include elements/figure.html image="/assets/images/squishy/spinner.gif" caption="Look at it go!" %}
