@@ -23,4 +23,5 @@ Primarily, the work done on this sensor was to build and tune an electric circui
 ### The Pan-Tilt Mechanism
 The OGI Sensor would be put onto a pan-tilt mechanism to allow the OGI to scan over a large area for methane detection. I created a 3D model of the pan-tilt mechanism and built a test housing for the whole mechanism. I wrote the control schema for the pan-tilt, utilizing interrupts and PID control to allow for pseudo-simultaneous control of the device.
 
+<image src="/assets/images/squishy/Spinner.gif" alt="Spinners" width="450" /> 
 {% include elements/figure.html image="/assets/images/squishy/Spinner.gif" caption="Look at it go!" %}
