@@ -1,7 +1,7 @@
 ---
 name: 3D Printed Creations
 tools: [Hardware, 3D Printing]
-image: /assets/images/etsy/peepers.jpg
+image: /assets/images/Etsy/peepers.jpg
 description: Designing Stuff for Fun and For Friends
 ---
 
@@ -13,10 +13,10 @@ I also started to learn more organic 3D Modelling using tools like Blender to cr
 
 At the suggestion of some friends, I started to put some of these online for sale. Here's some shots of my first product, a Studio-Ghibli Soot Sprite inspired Yarn bowl!
 
-{% include elements/figure.html image="/assets/images/etsy/peepers.jpg" caption="Soot Boi" %}
+{% include elements/figure.html image="/assets/images/Etsy/peepers.jpg" caption="Soot Boi" %}
 
-{% include elements/figure.html image="/assets/images/etsy/bolwbacksho.jpg" caption="Soot Boi" %}
+{% include elements/figure.html image="/assets/images/Etsy/bolwbacksho.jpg" caption="Soot Boi" %}
 
-{% include elements/figure.html image="/assets/images/etsy/bowltopdown.jpg" caption="Soot Boi" %}
+{% include elements/figure.html image="/assets/images/Etsy/bowltopdown.jpg" caption="Soot Boi" %}
 
-{% include elements/figure.html image="/assets/images/etsy/sootghib.jpg" caption="The inspo!" %}
+{% include elements/figure.html image="/assets/images/Etsy/sootghib.jpg" caption="The inspo!" %}
