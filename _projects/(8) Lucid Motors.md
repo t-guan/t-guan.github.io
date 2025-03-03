@@ -13,7 +13,7 @@ I'm an engineer at Lucid Motors, working on the Battery Pack.
 
 I started designing plastics on the Batteyr Module, and started to focus on integrating the Battery Management PCBAs into our battery module! 
 
-{% include elements/figure.html image="/assets/images/lucid/moduleexplode.jpg" caption="Module=" %}
+{% include elements/figure.html image="/assets/images/lucid/moduleexplode.jpg" caption="Module" %}
 
 You can see the plastics I worked on in the image below. It was challenging to create a part that needed to fit within an exsiting space, while also accounting for mechanical robustness to vibration and heat.
 

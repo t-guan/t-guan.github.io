@@ -1,8 +1,9 @@
 ---
 name: 3D Printed Creations
 tools: [Hardware, 3D Printing]
-image: /assets/images/etsy/peepersk.jpg
+image: /assets/images/etsy/peepers.jpg
 description: Designing Stuff for Fun and For Friends
+---
 
 # CAD Creations
 
